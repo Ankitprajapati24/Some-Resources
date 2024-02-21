@@ -26,4 +26,4 @@ You can find Road map to learn any language from [Roadmap.sh](https://roadmap.sh
  ./ courses of fullstack web development learn from [web.dev](https://web.dev/)
 
  - [ ] \(Optional) Open a followup issue
- - [ ] jg
+ - [X] jg
