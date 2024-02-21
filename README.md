@@ -19,3 +19,6 @@ the world's largest data science community with powerful tools and resources to 
 ### Road map
 
 You can find Road map to learn any language from [Roadmap.sh](https://roadmap.sh/)
+
+### Some links 
+[fullstackopen](https://fullstackopen.com/en/#course-contents)
