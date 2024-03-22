@@ -1,3 +1,7 @@
+### handbook for linux command/ compiler 
+[Linux Command Handbook](https://flaviocopes.com/books-dist/cli-handbook.pdf)
+
+
 ### flutter-Resources-
 
 [Code lab](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0)
