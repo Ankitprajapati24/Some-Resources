@@ -1,3 +1,8 @@
+### To learn everything
+You will get everything here
+[The VAlley of Code](https://thevalleyofcode.com/)
+
+
 ### best site to learn LINUX
 [Linux Journey](https://linuxjourney.com/)
 
