@@ -1,3 +1,7 @@
+### C programming 
+[C programming Book](https://flaviocopes.com/books-dist/c-handbook.pdf)
+
+
 ### learn a command quickly 
 [tldr pages](https://tldr.sh/)
 
