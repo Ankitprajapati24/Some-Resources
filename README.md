@@ -1,3 +1,7 @@
+### learn a command quickly 
+[tldr pages](https://tldr.sh/)
+
+
 ### handbook for linux command/ compiler 
 [Linux Command Handbook](https://flaviocopes.com/books-dist/cli-handbook.pdf)
 
