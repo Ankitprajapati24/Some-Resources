@@ -1,3 +1,6 @@
+### Flavio Copes -- somthing more 
+[Hi, I'm Flavio](https://flaviocopes.com/)
+
 ### To learn everything
 You will get everything here
 [The VAlley of Code](https://thevalleyofcode.com/)
